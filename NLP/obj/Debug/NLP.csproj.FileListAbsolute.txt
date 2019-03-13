@@ -1,0 +1,7 @@
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\bin\Debug\NLP.exe.config
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\bin\Debug\NLP.exe
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\bin\Debug\NLP.pdb
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\obj\Debug\NLP.csprojAssemblyReference.cache
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\obj\Debug\NLP.csproj.CoreCompileInputs.cache
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\obj\Debug\NLP.exe
+C:\Users\Sherif Abdalla\source\repos\NLP\NLP\obj\Debug\NLP.pdb
